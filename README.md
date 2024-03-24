@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Raj an Undergraduate In Data Science and Its Applications from IIT Madras
+ - 👋 Hi, I’m Rohit Raj an Undergraduate In Data Science and Its Applications from IIT Madras
 - 👀 I’m interested in ML, Ai, Real Time Project , Hackathons 
 - 🌱 I’m currently learning Ml, NLP , Mysql , PowerBi
 - 💞️ I’m looking to collaborate on Hackathons, Open Source Programming
@@ -7,7 +7,7 @@
 - 📫 How to reach me cashleyrohit01@gmail.com
 - 🤝connect me on linkdln https://www.linkedin.com/in/rohit-raj-7a91191a1/
 - 🤝connect me on X https://twitter.com/immmrohit
-- 🚀your time is limited so dont waste it to live someone's life by Steve Jobs 
+- 🚀your time is limited so dont waste it to live someone's else life by Steve Jobs 
 - ⚡ Fun fact: i have eaten 300 panipuri a Day .
 
 <!---
