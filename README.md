@@ -6,6 +6,7 @@
 - 🏆Second Runner Up won 1lakh National Level E waste Hackathon Organized By IIM Nagpur 2024 
 - 📫 How to reach me cashleyrohit01@gmail.com
 - 🤝connect me on linkdln https://www.linkedin.com/in/rohit-raj-7a91191a1/
+- 🤝connect me on X https://twitter.com/immmrohit
 - 🚀your time is limited so dont waste it to live someone's life by Steve Jobs 
 - ⚡ Fun fact: i have eaten 300 panipuri a Day .
 
