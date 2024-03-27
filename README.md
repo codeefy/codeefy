@@ -9,7 +9,7 @@
 - 🤝connect me on linkdln https://www.linkedin.com/in/rohit-raj-7a91191a1/
 - 🤝connect me on X https://twitter.com/immmrohit
 - 🚀your time is limited so dont waste it to live someone's else life by Steve Jobs 
-- ⚡ Fun fact: i have eaten 300 panipuri a Day .
+- ⚡ Fun fact: i have eaten 300 panipuri a Day ..
 
 <!---
 codeefy/codeefy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
