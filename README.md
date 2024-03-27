@@ -1,4 +1,5 @@
- - 👋 Hi, I’m Rohit Raj an Undergraduate In Data Science and Its Applications from IIT Madras
+ -** Hi there **
+ - 👋 I’m Rohit Raj an Undergraduate In Data Science and Its Applications from IIT Madras
 - 👀 I’m interested in ML, Ai, Real Time Project , Hackathons 
 - 🌱 I’m currently learning Ml, NLP , Mysql , PowerBi
 - 💞️ I’m looking to collaborate on Hackathons, Open Source Programming
