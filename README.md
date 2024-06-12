@@ -2,8 +2,7 @@
 <h3 align="center">A Programmer, Analyst and Learner </h3>
 <!--<img align="right" alt="Coding" width="400" src=""> -->
 
-![photo_2024-06-12_21-26-44](https://github.com/codeefy/codeefy/assets/164794013/77f74cfd-8d5b-495d-a4fe-ded2096ad6bd)
-
+![photo_2024-06-12_21-26-44](https://github.com/codeefy/codeefy/assets/164794013/eded0fd1-a199-4a93-80d9-18036c6a68ef)
 
 
 **About Me**        
