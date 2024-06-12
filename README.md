@@ -1,13 +1,29 @@
 <h1 align="center">Hello World 👋, I'm Rohit Raj</h1>
 <h3 align="center">A Programmer, Analyst and Learner </h3>
-<img align="right" alt="Coding" width="400" 
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Funofficialdxnny%2Fspotify-listening-to-in-github-readmemd-3867&psig=AOvVaw1vQiqvTdZZKYShsO3nAHKX&ust=1718293180999000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjz8Ymz1oYDFQAAAAAdAAAAABAR">
+<!--<img align="right" alt="Coding" width="400" src=""> -->
+
+![photo_2024-06-12_21-26-44](https://github.com/codeefy/codeefy/assets/164794013/77f74cfd-8d5b-495d-a4fe-ded2096ad6bd)
+
+
+
+**About Me**        
+- 🌱 I am a Data Analyst and a tech enthusiast
+-    BS In Data Science and Applications From **Indian Instritute Of Technology Madras** 
+- 👷 BSC (3rd year) at **Delhi skill and Entrepreneurship university**
+- 🚀 Passionate, hard-working, quick learner
+- 🌱 I’m learning **Data Science,Full stack development and Competitive Programming**
+- 😀 Always open to learn and grow
+- 🚀your time is limited so dont waste it to live someone's else life by Steve Jobs 
+- 💬 Ask me about ** ML and hackathons**
+- 🏆**First Runner Up** won **25000 rupess In National Level** E waste hackathon Organized By **Central Pollution control Board  Delhi and ministry of environment forest and climate change** 2023
+- 🏆**Second Runner Up** won **1lakh National Level** E waste Hackathon Organized By **IIM Nagpur** 2024 
+
+- 📫 How to reach me **cashleyrohit01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeefy" alt="codeefy" /></a> </p>
 
-- 🌱 I’m learning **Data Science,Full stack development and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
