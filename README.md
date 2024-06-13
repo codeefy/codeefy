@@ -7,7 +7,7 @@
 
 **About Me**        
 - 🌱 I am a Data Analyst and a tech enthusiast
--    BS In Data Science and Applications From **Indian Instritute Of Technology Madras** 
+-   BS In Data Science and Applications From **Indian Instritute Of Technology Madras**.   
 - 👷 BSC (3rd year) at **Delhi skill and Entrepreneurship university**
 - 🚀 Passionate, hard-working, quick learner
 - 🌱 I’m learning **Data Science,Full stack development and Competitive Programming**
