@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Rohit Raj</h1>
+<h1 align="center">Hello World 👋, I'm Gaurav Jha </h1>
 <h3 align="center">A Programmer, Analyst and Learner </h3>
 <!--<img align="right" alt="Coding" width="400" src=""> -->
 
