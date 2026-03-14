@@ -12,7 +12,8 @@
 - 📫 How to reach me **cashleyrohit01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
-"left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeefy" alt="codeefy" /></a> </p>-->
+"left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeefy" alt="codeefy" /></a> 
+</p>-->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +38,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
 </a>
 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
