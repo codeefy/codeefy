@@ -4,8 +4,9 @@
 
 **About Me**        
 - 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance,Product) from IIIT Lucknow
+- 🏢 i have worked as data analyst intern at 99acre, founder office intern at Techxcl 
 - 👷 Graduate BSC Data Analytics from **Delhi skill and Entrepreneurship university**
-- 🌱 Diploma Data Science and Applications From **Indian Instritute Of Technology Madras   
+- 🌱 Diploma Data Science and Applications From **Indian Instritute Of Technology Madras**  
 - 😀 Always open to learn and discuss problems related to AI, ML 
 - 🏆**First Runner Up** won **25000 rupess In National Level** E waste hackathon Organized By **Central Pollution control Board  Delhi and ministry of environment forest and climate change** 2023
 - 🏆**Second Runner Up** won **1lakh National Level** E waste Hackathon Organized By **IIM Nagpur** 2024 
