@@ -91,9 +91,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeefy&show_icons=true&locale=en&layout=compact" alt="codeefy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&locale=en" alt="codeefy" /></p>
-<p>
-<img align="center" src="https://streak-stats.demolab.com/?user=codeefy" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-2003&theme=react&hide_border=false)<br/>
+
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeefy&" alt="codeefy" /></p> -->
 
