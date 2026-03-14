@@ -3,7 +3,7 @@
 <!--<img align="right" alt="Coding" width="400" src=""> -->
 
 **About Me**        
-- 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance,Product) from IIIT Lucknow
+- 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance,Product) from **IIIT Lucknow**
 - 🏢 i have worked as data analyst intern at 99acre, founder office intern at Techxcl 
 - 👷 Graduate BSC Data Analytics from **Delhi skill and Entrepreneurship university**
 - 🌱 Diploma Data Science and Applications From **Indian Instritute Of Technology Madras**  
