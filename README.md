@@ -88,10 +88,14 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeefy&show_icons=true&locale=en&layout=compact" alt="codeefy" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeefy&show_icons=true&locale=en&layout=compact" alt="codeefy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&locale=en" alt="codeefy" /></p><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeefy&theme=react&hide_border=false)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&locale=en" alt="codeefy" /></p>-->
+![](https://github-readme-stats.vercel.app/api?username=codeefy&theme=react&hide_border=false)
+
+![](https://streak-stats.demolab.com/?user=codeefy&theme=react&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&theme=react&layout=compact)
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeefy&" alt="codeefy" /></p> -->
