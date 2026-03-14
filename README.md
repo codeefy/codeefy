@@ -12,9 +12,7 @@
 - 📫 How to reach me **cashleyrohit01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeefy&theme=tokyonight&column=7" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=codeefy&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
