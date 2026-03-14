@@ -6,7 +6,7 @@
 
 
 **About Me**        
-- 🌱 I am a Data Analyst and a tech enthusiast
+- 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance,Product) from IIIT Lucknow
 - 🌱 BS In Data Science and Applications From **Indian Instritute Of Technology Madras   
 - 👷 BSC (3rd year) at **Delhi skill and Entrepreneurship university**
 - 🚀 Passionate, hard-working, quick learner
