@@ -7,16 +7,11 @@
 
 **About Me**        
 - 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance,Product) from IIIT Lucknow
-- 🌱 BS In Data Science and Applications From **Indian Instritute Of Technology Madras   
 - 👷 BSC (3rd year) at **Delhi skill and Entrepreneurship university**
-- 🚀 Passionate, hard-working, quick learner
-- 🌱 I’m learning **Data Science,Full stack development and Competitive Programming**
-- 😀 Always open to learn and grow
-- 🚀your time is limited so dont waste it to live someone's else life by Steve Jobs 
-- 💬 Ask me about ** ML and hackathons**
+- 🌱 Diploma Data Science and Applications From **Indian Instritute Of Technology Madras   
+- 😀 Always open to learn and discuss problems related to AI, ML 
 - 🏆**First Runner Up** won **25000 rupess In National Level** E waste hackathon Organized By **Central Pollution control Board  Delhi and ministry of environment forest and climate change** 2023
 - 🏆**Second Runner Up** won **1lakh National Level** E waste Hackathon Organized By **IIM Nagpur** 2024 
-
 - 📫 How to reach me **cashleyrohit01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
