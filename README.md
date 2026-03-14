@@ -15,12 +15,15 @@
 - 📫 How to reach me **cashleyrohit01@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codeefy&theme=tokyonight&column=7" />
+</p>
 
-<p align="left">
+<!--<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=codeefy" alt="codeefy" />
 </a>
-</p>
+</p> -->
 <!-- This is a hidden comment in README -->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeefy" alt="codeefy" /></a> </p>-->
