@@ -92,11 +92,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&locale=en" alt="codeefy" /></p>-->
 
-![](https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&cache_seconds=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&theme=tokyonight&v=2)
 
-![](https://streak-stats.demolab.com/?user=codeefy&cache_seconds=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=codeefy&theme=tokyonight&v=2)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight&v=2)
 
 <!---
 codeefy/codeefy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
