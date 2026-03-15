@@ -105,7 +105,7 @@
   <img src="https://streak-stats.demolab.com/?user=codeefy&theme=tokyonight" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight" />
 </p>
 
