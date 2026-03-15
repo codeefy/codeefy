@@ -97,15 +97,15 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codeefy&theme=tokyonight&v=2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight&v=2)-->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=codeefy&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight" />
 </p>
 
