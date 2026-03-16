@@ -1,7 +1,5 @@
 <h1 align="center">Heyy👋, I'm Rohit Raj</h1>
 <h3 align="center">A Programmer, Analyst and Probelm Solver </h3>
-<img align="right" alt="Coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 **About Me**        
 - 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance,Product) from **IIIT Lucknow**
