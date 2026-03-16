@@ -1,6 +1,8 @@
 <h1 align="center">Heyy👋, I'm Rohit Raj</h1>
 <h3 align="center">A Programmer, Analyst and Probelm Solver </h3>
 <!--<img align="right" alt="Coding" width="400" src=""> -->
+<img align="right" alt="Coding" width="400" 
+src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit,f_auto,fl_progressive,q_66,w_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 **About Me**        
 - 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance,Product) from **IIIT Lucknow**
@@ -11,8 +13,8 @@
 - 🏆**First Runner Up** won **25000 rupess In National Level** E waste hackathon Organized By **Central Pollution control Board  Delhi and ministry of environment forest and climate change** 2023
 - 🏆**Second Runner Up** won **1lakh National Level** E waste Hackathon Organized By **IIM Nagpur** 2024 
 - 📫 How to reach me **cashleyrohit01@gmail.com**
-<img align="right" alt="Coding" width="400" 
-src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit,f_auto,fl_progressive,q_66,w_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeefy&label=Profile%20views&color=0e75b6&style=flat" alt="codeefy" /> </p>
 
