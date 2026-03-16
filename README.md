@@ -90,9 +90,11 @@
 </p>
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight&cache_seconds=86400)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&theme=tokyonight&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=codeefy&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 
 
