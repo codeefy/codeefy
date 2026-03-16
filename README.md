@@ -90,12 +90,17 @@
 </p>
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=codeefy&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&theme=tokyonight&v=2)
+
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeefy&show_icons=true&theme=tokyonight&v=2)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codeefy&theme=tokyonight&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeefy&layout=compact&theme=tokyonight&v=2)-->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeefy&show_icons=true&locale=en&layout=compact" alt="codeefy" /></p>
 
