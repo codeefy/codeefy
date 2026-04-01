@@ -9,7 +9,7 @@
 - 😀 Always open to learn and discuss problems related to AI, ML 
 - 🏆**First Runner Up** won **25000 rupess In National Level** E waste hackathon Organized By **Central Pollution control Board  Delhi and ministry of environment forest and climate change** 2023
 - 🏆**Second Runner Up** won **1lakh National Level** E waste Hackathon Organized By **IIM Nagpur** 2024 
-- 📫 How to reach me **cashleyrohit01@gmail.com**
+- 📫 reach out to me **cashleyrohit01@gmail.com**
 
 
 
