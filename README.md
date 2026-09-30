@@ -2,7 +2,7 @@
 <h3 align="center">A Programmer, Analyst and Problem Solver </h3>
    
 **About Me**        
-- 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance, Product engineering) from **IIIT Lucknow**
+- 🌱 I am pursuing master's of Science (major: ML, DL, NLP, Finance, Product Engineering) from **IIIT Lucknow**
 - 🏢 i have worked as data analyst at 99acre, founder office intern at Techxcl 
 - 👷 Graduate BS Data Analytics from **Delhi skill and Entrepreneurship university**
 - 🌱 Diploma in Data Science with Programming From **Indian Instritute Of Technology Madras**  
